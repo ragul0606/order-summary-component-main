@@ -9,8 +9,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ragul0606/order-summary-component-main
+- Live Site URL: https://sparkling-dasik-908dd3.netlify.app/
 
 ## My process
 
